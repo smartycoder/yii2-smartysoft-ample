@@ -1,0 +1,25 @@
+{
+    "name": "smartysoft/yii2-smartysoft-ample",
+    "description": "yii2-smartysoft-ample",
+    "type": "yii2-extension",
+    "keywords": ["yii2","AmpleTemplate"],
+    "license": "BSD-3-Clause",
+    "version": "2.4.1",
+    "authors": [
+        {
+            "name": "smartysoft",
+            "email": "smartysoft@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "2.*",
+        "cebe/yii2-gravatar": "1.*",
+        "rmrevin/yii2-fontawesome": "~2.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "smartysoft\\ample\\": ""
+        }
+    }
+}
