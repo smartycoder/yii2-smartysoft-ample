@@ -16,7 +16,7 @@ class AmpleAsset extends AssetBundle
 //        'libs/morris.js/morris.css',
 //        'libs/bootstrap/dist/css/bootstrap.min.css'
         'css/icons/material-design-iconic-font/css/materialdesignicons.min.css',
-        'css/icons/font-awesome/css/fontawesome-all.css'
+        'css/icons/font-awesome/css/all.min.css'
     ];
 
     public $js = [
