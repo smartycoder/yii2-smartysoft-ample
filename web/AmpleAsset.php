@@ -15,6 +15,7 @@ class AmpleAsset extends AssetBundle
 //        'css/style2.min.css',
 //        'libs/morris.js/morris.css',
 //        'libs/bootstrap/dist/css/bootstrap.min.css'
+        'libs/toastr/build/toastr.min.css',
         'css/icons/material-design-iconic-font/css/materialdesignicons.min.css',
         'css/icons/font-awesome/css/all.min.css'
     ];
@@ -27,6 +28,7 @@ class AmpleAsset extends AssetBundle
 //        'libs/jquery/dist/jquery.min.js',
         'libs/popper.js/dist/umd/popper.min.js',
         'libs/morris.js/morris.min.js',
+        'libs/toastr/build/toastr.min.js',
         'libs/bootstrap/dist/js/bootstrap.min.js',
         'js/app.min.js',
 //        'js/app.init.js',
@@ -43,7 +45,7 @@ class AmpleAsset extends AssetBundle
 //        'yii\web\YiiAsset',
 //        'yii\bootstrap\BootstrapAsset',
 //        'yii\bootstrap\BootstrapPluginAsset',
-    'imxiangli\ladda\LaddaAsset'
+        'imxiangli\ladda\LaddaAsset'
     ];
 
 }
