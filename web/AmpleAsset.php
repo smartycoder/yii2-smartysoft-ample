@@ -29,6 +29,7 @@ class AmpleAsset extends AssetBundle
         'libs/popper.js/dist/umd/popper.min.js',
         'libs/morris.js/morris.min.js',
         'libs/toastr/build/toastr.min.js',
+        'libs/splitjs/split.min.js',
         'libs/bootstrap/dist/js/bootstrap.min.js',
         'js/app.min.js',
 //        'js/app.init.js',
